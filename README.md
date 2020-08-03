@@ -1,6 +1,6 @@
 # pbsmanage
-## usage: pbsmanage.py [-h] -d DIRET [-p PROCESS]
-## To Manage pbs scripts.
+usage: pbsmanage.py [-h] -d DIRET [-p PROCESS]
+To Manage pbs scripts.
 # optional arguments:
 ```
 -h, --help            show this help message and exit
